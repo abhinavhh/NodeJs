@@ -109,6 +109,4 @@ nodejs-learning/
 - Create a full-stack project using Express
 - Add testing for each example
 
-## 📄 License
 
-This repository is licensed under the MIT License - see the LICENSE file for details.
